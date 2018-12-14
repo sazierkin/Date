@@ -1,3 +1,3 @@
 # Date
 
-Enter a date.Programme shows your day of your date.
+Enter a date.Programme shows day of your date.
